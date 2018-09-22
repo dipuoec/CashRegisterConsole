@@ -1,0 +1,11 @@
+
+Thanks for doing business with us 
+Here's Your Receipt: 
+
+ Item   Quantity  Price   Total   FreeQuantity(If Any) 
+
+
+Oranges --- 5 Nos. --- $5.00 --- $25.00 
+Apples --- 5 Nos. --- $3.00 --- $15.00 
+
+-----------------------------------------
